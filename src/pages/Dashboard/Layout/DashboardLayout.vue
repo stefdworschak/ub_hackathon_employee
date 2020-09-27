@@ -7,35 +7,35 @@
         <sidebar-item
           :link="{
             name: 'Dashboard',
-            icon: 'now-ui-icons business_chart-pie-36',
+            icon: 'now-ui-icons users_circle-08',
             path: '/dashboard'
           }"
         >
         </sidebar-item>
-        <sidebar-item
+        <!--<<sidebar-item
           :link="{
             name: 'ESOP Wizard',
             icon: 'now-ui-icons design_vector',
             path: '/esop_wizard'
           }"
         >
-        </sidebar-item>
-        <sidebar-item
+        </sidebar-item>-->
+        <!--<sidebar-item
           :link="{
             name: 'Company Dashboard',
             icon: 'now-ui-icons business_chart-bar-32',
             path: '/CompanyDashboard'
           }"
-        >
+        >-->
         </sidebar-item>
-        <sidebar-item
+        <!--<sidebar-item
           :link="{
             name: 'Cap Table',
             icon: 'now-ui-icons design_bullet-list-67',
             path: '/Cap_Table'
           }"
         >
-        </sidebar-item>
+        </sidebar-item>-->
         
         
        <!-- <sidebar-item
@@ -56,9 +56,9 @@
           <!--<sidebar-item
             :link="{ name: 'Lock Screen', path: '/lock' }"
           ></sidebar-item>-->
-          <sidebar-item
+          <!--<sidebar-item
             :link="{ name: 'User Profile', icon: 'now-ui-icons design_app', path: '/pages/user' }"
-          ></sidebar-item>
+          ></sidebar-item>-->
         </sidebar-item>
         <!--<sidebar-item
           :link="{ name: 'Components', icon: 'now-ui-icons education_atom' }"

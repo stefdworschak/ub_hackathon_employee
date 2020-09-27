@@ -328,7 +328,7 @@ const routes = [
       {
         path: "dashboard",
         name: "Dashboard",
-        components: { default: Dashboard, header: DashboardHeader }
+        components: { default: Dashboard, header: DefaultHeader }
       },
       {
         path: "CompanyDashboard",
